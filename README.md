@@ -1,3 +1,17 @@
+<h1>Covid-19 Tracker Web-App <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fndresponse.gov%2Fsites%2Fwww%2Ffiles%2Fdocuments%2Ficons%2Fvirus.png&f=1&nofb=1" height="40"/></h1>
+
+### Description
+
+Covid-19 tracker web application https://covid-19-tracker-by-joey.web.app/<br/>
+A ReactJs Keep Track App. <br/>
+<h3>Features:</h3> <p> Show Covid new cases/recovered/deaths around the world | an Interactive map with Circle(leaflet) | A chart build with chartjs-2 chart.js</p>
+
+### Source:
+Map: https://leafletjs.com/
+ChartJs: https://github.com/jerairrest/react-chartjs-2
+
+<br/><br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
